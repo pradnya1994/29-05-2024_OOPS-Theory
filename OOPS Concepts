@@ -1,0 +1,40 @@
+1. Class and Properties
+		- fields
+		- constructors
+		- blocks
+		- methods
+		- static keyword
+		
+2. Objects and object creation process
+		- new keyword
+		- memory allocation
+3. this keyword
+4. Principles of OOP
+		- Encapsulation
+			- what is encapsulation
+			- types of classes
+			- setters and getters
+		- Abstraction
+			- about abstract class and interfaces
+			- about abstract methods
+		- Inheritance
+			- what is inheritance
+			- extends and implements keywords
+			- types of inheritance
+			- super keyword
+		- Polymorphism
+			- what is polymorphism
+			- types of polymorphism
+				- static/compile
+					- method and constructor overloading
+				- dynamic/runtime 
+					- method overriding
+			- final keyword
+			- covariant return types
+5. about java access modifiers
+6. about Object class
+	- what is Object class
+	- Object class methods
+	- what is cloning?
+	
+			
